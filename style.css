@@ -1,0 +1,16 @@
+figure {
+    text-align: center;
+    width: auto;
+    height: auto;
+  }
+  img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+  }
+  #main {
+    background-color: #2A904C;
+  }
+  h1, h2, h3, h4 {
+   color: #2A3B90;
+    }
